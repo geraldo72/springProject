@@ -1,0 +1,13 @@
+br/com/luisgr/BookmarkControllerAdvice.class
+br/com/luisgr/BookmarkResource.class
+br/com/luisgr/OAuth2Configuration$1.class
+br/com/luisgr/UserNotFoundException.class
+br/com/luisgr/model/bookmarks/BookmarkRepository.class
+br/com/luisgr/SpringProjectApplication$1.class
+br/com/luisgr/SpringProjectApplication.class
+br/com/luisgr/BookmarkRestController.class
+br/com/luisgr/OAuth2Configuration.class
+br/com/luisgr/WebSecurityConfiguration.class
+br/com/luisgr/model/bookmarks/Account.class
+br/com/luisgr/model/bookmarks/AccountRepository.class
+br/com/luisgr/model/bookmarks/Bookmark.class
